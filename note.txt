@@ -18,3 +18,5 @@ How to save after adding sublime?
 on Windows Control +s 
 
 We do not have to one commit at a time
+You can commit multiple commet in one shot
+There are no limit
