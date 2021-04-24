@@ -16,3 +16,5 @@ remote repository so We PUSHED local commits to remote repository using push but
 
 How to save after adding sublime? 
 on Windows Control +s 
+
+We do not have to one commit at a time
